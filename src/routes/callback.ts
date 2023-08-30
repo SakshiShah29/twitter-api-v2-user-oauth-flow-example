@@ -5,7 +5,7 @@ import { asyncWrapOrError } from '../utils';
 
 export const callbackRouter = Router();
 
-// -- FLOW 1: --
+
 // -- Callback flow --
 
 // Serve HTML index page with callback link

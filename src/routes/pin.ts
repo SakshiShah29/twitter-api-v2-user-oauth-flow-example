@@ -5,7 +5,7 @@ import { asyncWrapOrError } from '../utils';
 
 export const pinRouter = Router();
 
-// -- FLOW 2: --
+
 // -- PIN flow --
 
 // Serve HTML index page with link with PIN usage
